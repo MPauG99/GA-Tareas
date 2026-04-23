@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Grime';
+    src: url('fonts/GrimeSlimeDripping-Regular.ttf') format('ttf');
+}
+
+title {
+    font-family: 'Grime', sans-serif;
+}
